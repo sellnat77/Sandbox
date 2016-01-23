@@ -12,5 +12,3 @@ ___
   *  Only need to run python, and PiCamera
 
 ## Execution
-*  Running on Pi
-*  Planning on running on server
